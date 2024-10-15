@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9uzZ11nYzRA=",
+  "dgSpecHash": "iTwaWQuGxxA=",
   "success": true,
-  "projectFilePath": "F:\\Senai - Full Stack\\Desenvolvimento de API\\Atividade 03\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "F:\\Senai - Full Stack\\Desenvolvimento de API\\Atividade 03\\Estrutura_da_API_com_Context_e_m-todo_GET_para_projetos-\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NatanLenovo\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\NatanLenovo\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
